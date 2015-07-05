@@ -1,0 +1,25 @@
+
+HR
+9:00am-9:15am
+Other
+1
+9:25am-10:15am
+Regular Class
+Br
+10:15am-10:25am
+Break/Lunch
+6
+10:30am-11:20am
+Regular Class
+7
+11:30am-12:20pm
+Regular Class
+Lu
+12:20pm-12:55pm
+Break/Lunch
+2
+1:00pm-1:50pm
+Regular Class
+3
+2:00pm-2:50pm
+Regular Class
