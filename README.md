@@ -1,3 +1,4 @@
+
 # Bell-Scheduling
 
 Bellarmine (Bell) Scheduling Software by Chanan Walia and John Yang
@@ -8,6 +9,6 @@ The web component provides an interface to view, create, and edit a day’s sche
 
 The Java component calls the API of the web component and receives all of the schedule information. It stores the schedule information in custom class objects and it proceeds to generate a PNG image with the aspect ratio of a US-Letter-size paper. It works to create a readable image, spacing items evenly given the variable number of agenda items/announcements. It uses color labels to correspond with “type” values created in the web interface.
 
-![Schedule Display and Homepage](/screenshots/01_schedule_display_home.png?raw=true "Schedule Display and Homepage")
-![Schedule Editing Page](/screenshots/02_schedule_edit.png?raw=true "Schedule Editing Page")
-![API Access Information and Example Page](/screenshots/03_api_information.png?raw=true "API Access Information and Example Page")
+![Schedule Display and Homepage](/Screenshots/01_schedule_display_home.png?raw=true "Schedule Display and Homepage")
+![Schedule Editing Page](/Screenshots/02_schedule_edit.png?raw=true "Schedule Editing Page")
+![API Access Information and Example Page](/Screenshots/03_api_information.png?raw=true "API Access Information and Example Page")
