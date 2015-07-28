@@ -65,8 +65,8 @@ class DaySchedule {
 
 public class ScheduleGenerator_YangWalia {
 
-    private static final String IMAGE_DESTINATION = "BCPSchedule.PNG"; 
-    private static final String SCHEDULE_API_PATH = "http://chananwalia.com/school/bellarmine/computerscience/sched/getschedule.php";
+    private static final String IMAGE_DESTINATION = "School_Logo.PNG"; 
+    private static final String SCHEDULE_API_PATH = "http://WEB_PATH/getschedule.php";
     
     public static void main(String[] args) throws Exception {
         //DaySchedule test = createTestDaySchedule(); - Test image generation without server access
